@@ -1,0 +1,61 @@
+body {
+  background-color: #8bc4b3;
+  color: #32322f;
+  font-family: 'Public Sans', sans-serif;
+  width: 80%;
+  margin: auto;
+}
+
+div {
+  text-align: center;
+}
+
+.title-img {
+  width:100%;
+  margin: 3rem 0 2rem;
+}
+
+.cards {
+width: 98%;
+}
+
+.col-lg-6 {
+  padding: 0;
+}
+
+.intro-cards {
+  margin: 0;
+}
+
+.grid {
+  position: absolute;
+  z-index: -1;
+  left: -13rem;
+  top: -8rem;
+  width: auto;
+}
+
+.plant {
+  position: absolute;
+  top: 8rem;
+  right: -4rem;
+  width: 38%;
+}
+
+.plant2 {
+  position: absolute;
+  left: -8rem;
+  top: 11rem;
+  width: 25%;
+}
+
+.webdev {
+  width: 100%;
+  margin: 2rem 0;
+}
+
+/* @media (max-width: 1200px) {
+  .cards {
+    margin: 1rem 0;
+  }
+} */
